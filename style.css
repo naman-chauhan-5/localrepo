@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(23, 86, 65);
+}
+
+p {
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+}
